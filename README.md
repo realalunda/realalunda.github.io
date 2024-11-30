@@ -9,4 +9,4 @@
 
 [KEY WORD](keyword)
 
-[MY FRIEND](https://github.com/Naieric/Naieric.github.io)
+[MY FRIEND](https://Naieric.github.io/keyword)
