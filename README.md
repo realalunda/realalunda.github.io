@@ -9,4 +9,4 @@
 
 [Multi condition coverage](multi-condition-coverage)
 
-[Pichanut Rebo](https://Naieric.github.io/keyword)
+[Pichanat Repo](https://github.com/Naieric/Naieric.github.io)
