@@ -3,6 +3,6 @@
 - Thanabordee
   - Peak
 
-![alt text](IMG_0364)
+![alt text](IMG_0364.jepg)
 
 [AUTHENTICATION](authentication)
