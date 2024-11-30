@@ -5,8 +5,8 @@
 
 ![Me](IMG_0364.jpeg)
 
-[AUTHENTICATION](authentication)
+[Authentcation](authentication)
 
 [Multi condition coverage](multi-condition-coverage)
 
-[MY FRIEND](https://Naieric.github.io/keyword)
+[Pichanut Rebo](https://Naieric.github.io/keyword)
