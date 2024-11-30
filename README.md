@@ -7,6 +7,6 @@
 
 [AUTHENTICATION](authentication)
 
-[KEY WORD](keyword)
+[Multi condition coverage](multi-condition-coverage)
 
 [MY FRIEND](https://Naieric.github.io/keyword)
