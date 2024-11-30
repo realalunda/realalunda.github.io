@@ -7,4 +7,4 @@
 
 [AUTHENTICATION](authentication)
 
-[My friend](https://github/Naieric/Naieric.github.io)
+[My friend](https://github.com/Naieric/Naieric.github.io)
