@@ -3,7 +3,7 @@
 - Thanabordee
    - Peak
 
-![Me](IMG_0364.jpeg)
+![Me](image/IMG_0364.jpeg)
 
 [Authentcation](authentication)
 
