@@ -9,4 +9,4 @@
 
 [Multi condition coverage](multi-condition-coverage)
 
-[Merry Christmas And Happy New Year](Merry_Happy)
+[Merry Christmas And Happy New Year](Merry-Happy)
