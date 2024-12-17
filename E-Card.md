@@ -1,3 +1,3 @@
-# Marry Christmas And Happy New Year
+# Marry Christmas & Happy New Year
 
 ![E-Card](image/Merry And Happy.png)
