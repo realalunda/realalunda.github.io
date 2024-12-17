@@ -9,4 +9,4 @@
 
 [Multi condition coverage](multi-condition-coverage)
 
-[Merry Christmas And Happy New Year](E-Card)
+[Merry Christmas & Happy New Year](E-Card)
