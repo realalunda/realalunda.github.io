@@ -8,6 +8,5 @@
 
 ![pic](image/PAO Election1.jpg)
 
->  สถานที่เลือกตั้ง 
 
 ![pic](image/PAO Election2.jpg)
