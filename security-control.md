@@ -2,7 +2,7 @@
 
 # กลอนประตูดิจิทัล( Digital Door Lock)
 
-![img](image/DigitalDoorLock.jpg)
+![img](image/security-control1.jpg)
 
 - **Control Function** : Preventative
 - **Type of SecurityControl** : Physical Control
