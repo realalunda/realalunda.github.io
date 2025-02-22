@@ -24,7 +24,4 @@
 
  
 **Members**
-
-[6530250395 ธนบดี บุญสุข](https://realalunda.github.io/security-requirement))
-
 [6530250166 พิชานัต พรหมณี ]
